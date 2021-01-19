@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fatkun_images</folder>
+	<filename>pic_245.jpg</filename>
+	<path>D:\fatkun_images\pic_245.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>218</width>
+		<height>231</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cones</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>7</ymin>
+			<xmax>171</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>

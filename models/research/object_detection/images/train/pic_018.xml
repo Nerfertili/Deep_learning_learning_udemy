@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fatkun_images</folder>
+	<filename>pic_018.jpg</filename>
+	<path>D:\fatkun_images\pic_018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>241</width>
+		<height>209</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>6</ymin>
+			<xmax>178</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+</annotation>
